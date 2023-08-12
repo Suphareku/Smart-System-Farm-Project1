@@ -1,2 +1,2 @@
-# Smart-System-Farm-Project1
+# Smart-System-Farm-Project-Version1
 โครงงานคอมพิวเตอร์ประเภทซอฟแวร์ เรื่อง ระบบตรวจสอบและให้น้ำด้วยเซ็นเซอร์อัตโนมัติ
